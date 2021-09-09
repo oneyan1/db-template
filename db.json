@@ -1,8 +1,7 @@
-{    "profile": {
-    "name": "typicode"
-  },
+{
     "users": [
         {
+          "id": "1",
           "image":"/media/avatars/150-11.jpg",
           "name":"Ana",
           "surname":"Simmons",
@@ -12,6 +11,7 @@
           "progress":"50"
         },
         {
+            "id": "2",
           "image":"/media/avatars/150-3.jpg",
           "name":"Jessie",
           "surname":"Clarcson",
@@ -21,6 +21,7 @@
           "progress":"70"
         },
         {
+            "id": "3",
           "image":"/media/avatars/150-4.jpg",
           "name":"Lebron",
           "surname":"Wayde",
@@ -30,6 +31,7 @@
           "progress":"60"
         },
         {
+            "id": "4",
           "image":"/media/avatars/150-5.jpg",
           "name":"Ana",
           "surname":"Simmons",
@@ -39,6 +41,7 @@
           "progress":"50"
         },
         {
+            "id": "5",
           "image":"/media/avatars/150-6.jpg",
           "name":"Lebron",
           "surname":"Wayde",
@@ -48,6 +51,7 @@
           "progress":"60"
         },
         {
+            "id": "6",
           "image":"/media/avatars/150-4.jpg",
           "name":"Jessie",
           "surname":"Clarcson",
@@ -57,6 +61,7 @@
           "progress":"70"
         },
         {
+            "id": "7",
           "image":"/media/avatars/150-5.jpg",
           "name":"Lebron",
           "surname":"Wayde",
@@ -66,6 +71,7 @@
           "progress":"60"
         },
         {
+            "id": "8",
           "image":"/media/avatars/150-11.jpg",
           "name":"Ana",
           "surname":"Simmons",
@@ -75,6 +81,7 @@
           "progress":"50"
         },
         {
+            "id": "9",
           "image":"/media/avatars/150-11.jpg",
           "name":"Ana",
           "surname":"Simmons",
@@ -83,7 +90,7 @@
           "companySpec":"Web, UI/UX Design",
           "progress":"50"
         },
-        {
+        {"id": "10",
           "image":"/media/avatars/150-3.jpg",
           "name":"Jessie",
           "surname":"Clarcson",
@@ -92,7 +99,7 @@
           "companySpec":"Houses & Hotels",
           "progress":"70"
         },
-        {
+        {"id": "11",
           "image":"/media/avatars/150-4.jpg",
           "name":"Lebron",
           "surname":"Wayde",
@@ -101,7 +108,7 @@
           "companySpec":"Transportation",
           "progress":"60"
         },
-        {
+        {"id": "12",
           "image":"/media/avatars/150-5.jpg",
           "name":"Ana",
           "surname":"Simmons",
@@ -110,7 +117,7 @@
           "companySpec":"Web, UI/UX Design",
           "progress":"50"
         },
-        {
+        {"id": "13",
           "image":"/media/avatars/150-6.jpg",
           "name":"Lebron",
           "surname":"Wayde",
@@ -119,7 +126,7 @@
           "companySpec":"Transportation",
           "progress":"60"
         },
-        {
+        {"id": "14",
           "image":"/media/avatars/150-4.jpg",
           "name":"Jessie",
           "surname":"Clarcson",
@@ -128,7 +135,7 @@
           "companySpec":"Houses & Hotels",
           "progress":"70"
         },
-        {
+        {"id": "15",
           "image":"/media/avatars/150-5.jpg",
           "name":"Lebron",
           "surname":"Wayde",
@@ -137,7 +144,7 @@
           "companySpec":"Transportation",
           "progress":"60"
         },
-        {
+        {"id": "16",
           "image":"/media/avatars/150-11.jpg",
           "name":"Ana",
           "surname":"Simmons",
@@ -146,5 +153,8 @@
           "companySpec":"Web, UI/UX Design",
           "progress":"50"
         }
-    ]
+    ],
+    "profile": {
+      "name": "typicode"
+    }
   }
