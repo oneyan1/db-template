@@ -1,11 +1,150 @@
-{
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+{    "profile": {
+    "name": "typicode"
+  },
+    "users": [
+        {
+          "image":"/media/avatars/150-11.jpg",
+          "name":"Ana",
+          "surname":"Simmons",
+          "technology":"HTML, JS, ReactJS",
+          "company":"Intertico",
+          "companySpec":"Web, UI/UX Design",
+          "progress":"50"
+        },
+        {
+          "image":"/media/avatars/150-3.jpg",
+          "name":"Jessie",
+          "surname":"Clarcson",
+          "technology":"C#, ASP.NET, MS SQL",
+          "company":"Agoda",
+          "companySpec":"Houses & Hotels",
+          "progress":"70"
+        },
+        {
+          "image":"/media/avatars/150-4.jpg",
+          "name":"Lebron",
+          "surname":"Wayde",
+          "technology":"PHP, Laravel, VueJS",
+          "company":"RoadGee",
+          "companySpec":"Transportation",
+          "progress":"60"
+        },
+        {
+          "image":"/media/avatars/150-5.jpg",
+          "name":"Ana",
+          "surname":"Simmons",
+          "technology":"HTML, JS, ReactJS",
+          "company":"Intertico",
+          "companySpec":"Web, UI/UX Design",
+          "progress":"50"
+        },
+        {
+          "image":"/media/avatars/150-6.jpg",
+          "name":"Lebron",
+          "surname":"Wayde",
+          "technology":"PHP, Laravel, VueJS",
+          "company":"RoadGee",
+          "companySpec":"Transportation",
+          "progress":"60"
+        },
+        {
+          "image":"/media/avatars/150-4.jpg",
+          "name":"Jessie",
+          "surname":"Clarcson",
+          "technology":"C#, ASP.NET, MS SQL",
+          "company":"Agoda",
+          "companySpec":"Houses & Hotels",
+          "progress":"70"
+        },
+        {
+          "image":"/media/avatars/150-5.jpg",
+          "name":"Lebron",
+          "surname":"Wayde",
+          "technology":"PHP, Laravel, VueJS",
+          "company":"RoadGee",
+          "companySpec":"Transportation",
+          "progress":"60"
+        },
+        {
+          "image":"/media/avatars/150-11.jpg",
+          "name":"Ana",
+          "surname":"Simmons",
+          "technology":"HTML, JS, ReactJS",
+          "company":"Intertico",
+          "companySpec":"Web, UI/UX Design",
+          "progress":"50"
+        },
+        {
+          "image":"/media/avatars/150-11.jpg",
+          "name":"Ana",
+          "surname":"Simmons",
+          "technology":"HTML, JS, ReactJS",
+          "company":"Intertico",
+          "companySpec":"Web, UI/UX Design",
+          "progress":"50"
+        },
+        {
+          "image":"/media/avatars/150-3.jpg",
+          "name":"Jessie",
+          "surname":"Clarcson",
+          "technology":"C#, ASP.NET, MS SQL",
+          "company":"Agoda",
+          "companySpec":"Houses & Hotels",
+          "progress":"70"
+        },
+        {
+          "image":"/media/avatars/150-4.jpg",
+          "name":"Lebron",
+          "surname":"Wayde",
+          "technology":"PHP, Laravel, VueJS",
+          "company":"RoadGee",
+          "companySpec":"Transportation",
+          "progress":"60"
+        },
+        {
+          "image":"/media/avatars/150-5.jpg",
+          "name":"Ana",
+          "surname":"Simmons",
+          "technology":"HTML, JS, ReactJS",
+          "company":"Intertico",
+          "companySpec":"Web, UI/UX Design",
+          "progress":"50"
+        },
+        {
+          "image":"/media/avatars/150-6.jpg",
+          "name":"Lebron",
+          "surname":"Wayde",
+          "technology":"PHP, Laravel, VueJS",
+          "company":"RoadGee",
+          "companySpec":"Transportation",
+          "progress":"60"
+        },
+        {
+          "image":"/media/avatars/150-4.jpg",
+          "name":"Jessie",
+          "surname":"Clarcson",
+          "technology":"C#, ASP.NET, MS SQL",
+          "company":"Agoda",
+          "companySpec":"Houses & Hotels",
+          "progress":"70"
+        },
+        {
+          "image":"/media/avatars/150-5.jpg",
+          "name":"Lebron",
+          "surname":"Wayde",
+          "technology":"PHP, Laravel, VueJS",
+          "company":"RoadGee",
+          "companySpec":"Transportation",
+          "progress":"60"
+        },
+        {
+          "image":"/media/avatars/150-11.jpg",
+          "name":"Ana",
+          "surname":"Simmons",
+          "technology":"HTML, JS, ReactJS",
+          "company":"Intertico",
+          "companySpec":"Web, UI/UX Design",
+          "progress":"50"
+        }
+    ]
   }
